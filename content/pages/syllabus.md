@@ -47,27 +47,223 @@ There will be one in-class midterm test and a final exam.
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem sets | 30% |
-| Midterm exam | 30% |
-| Final exam | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm exam
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Coin Tossing, Law of Large Numbers, Rademacher Functions | Problem Set 1 Due |
-| 2 | Measure Theory, Random Models | Problem Set 2 Due |
-| 3 | Measurable Functions, Lebesgue Integral | Problem Set 3 Due |
-| 4 | Convergence Theorems, Riemann Integrability | Problem Set 4 Due |
-| 5 | Fubini's Theorem, Independent Random Variables | Problem Set 5 Due |
-| 6 | Lebesgue Spaces, Inner Products | Problem Set 6 Due |
-| 7 | Hilbert Space, Midterm Review | Midterm Test |
-| 8 | Fourier Series and their Convergence | Problem Set 7 Due |
-| 9 | Applications of Fourier Series | Problem Set 8 Due |
-| 10 | Fourier Integrals | Problem Set 9 Due |
-| 11 | Fourier Integrals of Measures, Central Limit Theorem | Problem Set 10 Due |
-| 12 | Brownian Motion | Problem Set 11 Due |
-| 13 | Brownian Motion Concluded, Review for Final Exam | Final Exam
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Coin Tossing, Law of Large Numbers, Rademacher Functions
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Measure Theory, Random Models
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 2 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Measurable Functions, Lebesgue Integral
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 3 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Convergence Theorems, Riemann Integrability
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 4 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Fubini's Theorem, Independent Random Variables
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 5 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Lebesgue Spaces, Inner Products
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 6 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Hilbert Space, Midterm Review
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Test
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Fourier Series and their Convergence
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 7 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Applications of Fourier Series
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 8 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Fourier Integrals
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 9 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Fourier Integrals of Measures, Central Limit Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 10 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Brownian Motion
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 11 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Brownian Motion Concluded, Review for Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
