@@ -114,7 +114,7 @@ Lebesgue Spaces, Inner Products
 Sections 3.1 and 3.2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lp Theory (PDF)]({{< baseurl >}}/resources/mit18_103f13_lptheory)
+[Lp Theory (PDF)]({{< baseurl >}}/resources/mit18_103f13_lptheory)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +144,7 @@ Fourier Series and their Convergence
 Section 3.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Fourier Series, Part 1 (PDF)]({{< baseurl >}}/resources/mit18_103f13_fseries1), ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Fourier Series, Part 2 (PDF)]({{< baseurl >}}/resources/mit18_103f13_fseries2)
+[Fourier Series, Part 1 (PDF)]({{< baseurl >}}/resources/mit18_103f13_fseries1), [Fourier Series, Part 2 (PDF)]({{< baseurl >}}/resources/mit18_103f13_fseries2)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +174,7 @@ Fourier Integrals
 Section 3.5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Fourier Integrals (PDF)]({{< baseurl >}}/resources/mit18_103f13_fourierint1)
+[Fourier Integrals (PDF)]({{< baseurl >}}/resources/mit18_103f13_fourierint1)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +204,7 @@ Brownian Motion
 \<no readings>
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Brownian Motion (PDF)]({{< baseurl >}}/resources/mit18_103f13_brownian)
+[Brownian Motion (PDF)]({{< baseurl >}}/resources/mit18_103f13_brownian)
 {{< tdclose >}}
 
 {{< trclose >}}
